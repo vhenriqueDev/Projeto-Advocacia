@@ -1,0 +1,17 @@
+input,
+textarea {
+  min-width: 350px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 5px;
+  border: 1px solid #c1c1c1;
+  margin-top: 20px;
+  height: 45px;
+  padding-left: 5px;
+  width: 100%;
+}
+
+textarea {
+  height: 200px;
+  padding-top: 10px;
+}
